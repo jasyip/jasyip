@@ -1,7 +1,9 @@
 # Jason Yip
 
 Attending University of Illinois at Urbana-Champaign as undergraduate
+
 B.S. in Computer Science and Music
+
 Started in 2021, will graduate in 2024
 
 ## Programming languages in which I am fluent
