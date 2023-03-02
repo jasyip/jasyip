@@ -33,7 +33,7 @@ Started in August 2021, will graduate in May 2024
 - Daily recreational weightlifting and long-distance running
     - 1 rep maxes:
         - Squat: 165 kg/365 lbs
-        - Bench Press: 155 kg/255 lbs
+        - Bench Press: 115 kg/255 lbs
     - Weekly mileage: ~24 km/15 mi
 - Arch Linux tweaking and *ricing*
     - Sway
