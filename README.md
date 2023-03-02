@@ -18,7 +18,7 @@ Started in August 2021, will graduate in May 2024
 
 ## Extracurriculars
 
-- Currently working
+- Currently working on:
     - Convenient music playlist normalizer based on `ffmpeg`
     - VPS from scratch
         - Docker Compose
