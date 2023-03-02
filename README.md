@@ -45,7 +45,7 @@ Started in August 2021, will graduate in May 2024
 
 - SIG GLUG of ACM
 
-### Ask me anything about these UIUC courses I will have completed
+## Ask me anything about these UIUC courses I will have completed
 
 - [Community College Course Equivalent] CS173 (Discrete Structures)
 - [Passed Proficiency Test] CS124 (Introduction to Computer Science I)
