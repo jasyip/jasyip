@@ -65,4 +65,4 @@ Graduating in *May 2024*
 - MUS105 (Computation & Music I)
 - MUS205 (Computation & Music II)
 - MUS305 (Computation & Music III)
-- MUS407 (Electronic Music Techniques I)
+- [Fall 2023] MUS407 (Electronic Music Techniques I)
