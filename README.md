@@ -4,7 +4,7 @@ Attending University of Illinois at Urbana-Champaign
 
 B.S. in *Computer Science and Music*
 
-Started in August 2021, will graduate in May 2024
+Graduating in *May 2024*
 
 ## Programming languages in which I am fluent
 
@@ -13,8 +13,10 @@ Started in August 2021, will graduate in May 2024
 - C
 - TypeScript/JavaScript
 - Python 3
-- **Nim**
+- Nim
 - POSIX Shell
+- Ocaml
+- Zig
 
 ## Extracurriculars
 
@@ -32,14 +34,14 @@ Started in August 2021, will graduate in May 2024
     - Ardour
 - Daily recreational weightlifting and long-distance running
     - 1 rep maxes:
-        - Squat: 165 kg/365 lbs
-        - Bench Press: 115 kg/255 lbs
-    - Weekly mileage: ~24 km/15 mi
+        - Squat: 172 kg/380 lbs
+        - Bench Press: 118 kg/260 lbs
+    - Weekly mileage: ~32 km/20 mi
 - Arch Linux tweaking and *ricing*
     - Sway
     - Neovim
-        - packer.nvim
-    - Librewolf
+    - LibreWolf
+    - Kitty Terminal
 
 ## RSO/Club Memberships at UIUC
 
@@ -54,9 +56,13 @@ Started in August 2021, will graduate in May 2024
 - CS[23]40 (Introduction to Computer Systems)
 - CS222 (Software Design Lab)
 - CS374 (Introduction to Algorithms & Models of Computation)
-- [Spring 2023] CS361 (Probability & Statistics for Computer Science)
-- [Spring 2023] CS421 (Programming Languages & Compilers)
+- CS361 (Probability & Statistics for Computer Science)
+- CS421 (Programming Languages & Compilers)
+- [Fall 2023] CS422 (Programming Language Design)
+- [Fall 2023] CS425 (Distributed Systems)
+- [Fall 2023] CS438 (Communication Networks)
 
 - MUS105 (Computation & Music I)
 - MUS205 (Computation & Music II)
-- [Spring 2023] MUS305 (Computation & Music III)
+- MUS305 (Computation & Music III)
+- MUS407 (Electronic Music Techniques I)
