@@ -34,8 +34,8 @@ Graduating in *May 2024*
     - Ardour
 - Daily recreational weightlifting and long-distance running
     - 1 rep maxes:
-        - Squat: 172 kg/380 lbs
-        - Bench Press: 118 kg/260 lbs
+        - Squat: 181 kg/400 lbs
+        - Bench Press: 125 kg/2 75lbs
     - Weekly mileage: ~32 km/20 mi
 - Arch Linux tweaking and *ricing*
     - Sway
