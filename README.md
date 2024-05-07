@@ -3,6 +3,7 @@
 Attending University of Illinois at Urbana-Champaign
 
 B.S. in *Computer Science and Music*
+
 M.CS. in *Computer Science*
 
 Switching to M.CS. *May 2024*
@@ -67,6 +68,7 @@ Switching to M.CS. *May 2024*
 - CS498 (Cloud Computing Applications)
 - [Summer 2024] CS416 (Data Visualization)
 - [Summer 2024] CS513 (Theory & Practice of Data Cleaning)
+- ECE402 (Electronic Music Synthesis)
 
 - MUS105 (Computation & Music I)
 - MUS205 (Computation & Music II)
