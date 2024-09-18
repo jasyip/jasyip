@@ -1,22 +1,17 @@
-# Jason Yip
+# [Jason Yip](https://codeberg.org/ljyip)
 
-Attending University of Illinois at Urbana-Champaign
-
-B.S. in *Computer Science and Music*
-
-M.CS. in *Computer Science*
-
-Switching to M.CS. *May 2024*
+M.CS. in *Computer Science* @ University of Illinois Urbana-Champaign
+B.S. in *Computer Science and Music* Class of 2024 @ University of Illinois Urbana-Champaign
 
 ## Programming languages in which I am fluent in decreasing order
 
 - Python 3
-- C++
 - C
+- C++
 - Bash/POSIX Shell
+- Dockerfile
 - Nim
 - Zig
-- Dockerfile
 - SQL
 - Ocaml
 - TypeScript/JavaScript
@@ -66,8 +61,11 @@ Switching to M.CS. *May 2024*
 - CS410 (Text Information Systems)
 - CS411 (Database Systems)
 - CS498 (Cloud Computing Applications)
-- [Summer 2024] CS416 (Data Visualization)
-- [Summer 2024] CS513 (Theory & Practice of Data Cleaning)
+- CS416 (Data Visualization)
+- CS513 (Theory & Practice of Data Cleaning)
+- CS463 (Computer Security II)
+- CS598CC (Cloud Computing Capstone)
+- CS598FDC (Foundations of Data Curation)
 - ECE402 (Electronic Music Synthesis)
 
 - MUS105 (Computation & Music I)
