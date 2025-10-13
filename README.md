@@ -1,8 +1,8 @@
-Hi! I was head of DevOps/DevEx/ML Platform Engineering @ Windsurf! I
-went to UIUC (University of Illinois Urbana-Champaign) for both my Bachelors in
-CS + Music and Masters in CS. I enjoy doing Linux Administration, crafting
-optimized Docker images, and working with Bazel, so feel free to contact me via
-email:
+Hi! I'm an Infrastructure SWE at [Runloop AI](runloop.ai)! I was previously at
+Windsurf, doing DevOps/DevEx/ML Platform Engineering there. I went to UIUC
+(University of Illinois Urbana-Champaign) for both my Bachelors in CS + Music
+and Masters in CS. I enjoy doing Linux Administration, crafting optimized Docker
+images, and working with Bazel, so feel free to contact me via email:
 
 - [`general@jasonchiu.slmail.me`](mailto:general@jasonchiu.slmail.me)
   - My public PGP key:
